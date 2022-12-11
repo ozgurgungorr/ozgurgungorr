@@ -7,6 +7,10 @@
 
 
 
+<p align="center">
+<a href="https://www.instagram.com/ozgurgungor.r/">
+<img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" alt="Logo" width="80" height="80" />
+</a>
 
 
 
