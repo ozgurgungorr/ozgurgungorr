@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https://www.instagram.com/ozgurgungor.r/" title="4543543">
+<a href="https://www.instagram.com/ozgurgungor.r/" title="Ben aynı zamanda burdayım :) ">
 <img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" alt="Logo" width="80" height="80" />
 </a>
 
