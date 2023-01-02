@@ -18,7 +18,5 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ozgurgungorr&show_icons=true&theme=radical)
 
-
-
 ![Github stats 2](https://www.moradam.com/wp-content/uploads/2020/09/Programlama.gif)
 
